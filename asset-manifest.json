@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.8c14305d.css",
+    "main.js": "/memory-card/static/js/main.fafbec1f.js",
+    "static/media/Jetray.png": "/memory-card/static/media/Jetray.5b62445b60751c050b91.png",
+    "static/media/ripjaws.png": "/memory-card/static/media/ripjaws.253039fefb41c91321d0.png",
+    "static/media/Lodestar.png": "/memory-card/static/media/Lodestar.0bdbb70e8e99786ea368.png",
+    "static/media/Brainstorm.png": "/memory-card/static/media/Brainstorm.54248764a22f802d719a.png",
+    "index.html": "/memory-card/index.html",
+    "main.8c14305d.css.map": "/memory-card/static/css/main.8c14305d.css.map",
+    "main.fafbec1f.js.map": "/memory-card/static/js/main.fafbec1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c14305d.css",
+    "static/js/main.fafbec1f.js"
+  ]
+}
