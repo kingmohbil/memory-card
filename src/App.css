@@ -1,0 +1,9 @@
+#cards-container {
+  max-width: 60vw !important;
+  margin-top: 5vh;
+}
+img {
+  min-height: 380px !important;
+  max-height: 380px !important;
+  max-width: 400px !important;
+}
